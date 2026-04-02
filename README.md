@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Jaslynn, a current data science student based in Australia.
+- 😄 pronouns: she/her
+- 🌱 I am currently working on data science-related projects and focusing on building my programming skills.
+
+Fun facts:
+- Hobbies: gym, gundam building, anime
+- Recently transitioned into tech from science
+
 <!--
 **jaslynnin/jaslynnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
